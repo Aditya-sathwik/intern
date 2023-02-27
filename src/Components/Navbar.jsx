@@ -26,7 +26,7 @@ const Menu = () => (
       <div className="flex justify-between items-center px-8 py-6 bg-[#131313]" id='gpt3__navbar'>
         <div className="flex flex-1 justify-start items-center">
           <div className="mr-8 flex">
-            <img src={logo} alt="logo"  className="w-11 h-8 "/>
+            <img src={logo} alt="logo"  className="w-8 h-5 md:w-11 md:h-8 "/>
            
           </div>
           <div className="flex   flex-row " id='gpt3__navbar-links_container'>
